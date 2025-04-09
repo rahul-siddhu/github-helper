@@ -1,4 +1,4 @@
-## Adding project to github
+## Adding project to your github
 1. git init
 2. git add .
 3. git commit -m "initial commit"
