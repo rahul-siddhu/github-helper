@@ -18,3 +18,10 @@
 
 ## Cloning a project from github
 git clone {repo https link}
+
+## Docker commands
+- docker-compose up -->	Starts all services in docker-compose.yml   
+- docker-compose down --> 	Stops and removes all containers   
+- docker-compose up --build --> 	Rebuilds images before starting   
+- docker ps -->  	Shows running containers   
+- docker exec -it <container_name> bash	-->    Opens shell in a running container
