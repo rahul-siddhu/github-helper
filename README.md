@@ -1,4 +1,4 @@
-## Adding project to your github
+# Adding project to your github
 1. git init
 2. git add .
 3. git commit -m "initial commit"
@@ -16,18 +16,18 @@
 
 
 
-## Cloning a project from github
+# Cloning a project from github
 git clone {repo https link}
 
-## Docker commands
+# Docker commands
 - docker-compose up -->	Starts all services in docker-compose.yml   
 - docker-compose down --> 	Stops and removes all containers   
 - docker-compose up --build --> 	Rebuilds images before starting   
 - docker ps -->  	Shows running containers   
 - docker exec -it <container_name> bash	-->    Opens shell in a running container
 
-## Elasticsearch API endpoints
-# 📘 Common Elasticsearch REST API Endpoints
+# Elasticsearch API endpoints
+## 📘 Common Elasticsearch REST API Endpoints
 
 This document lists commonly used Elasticsearch REST API paths for managing indices, documents, search operations, and more.
 
